@@ -16,7 +16,7 @@ We corrected the following Mishnaic treatises:
 - Baba Metsia (ref 4.2)
 - Baba Batra (ref 4.3)
 - Avot (ref 4.9)
-- Zevahot 1 (ref 5.1)
+- Zevahim 1 (ref 5.1)
 - Middot 1-2 (ref 5.10)
 - Kelim 1-2 (ref 6.1)
 
