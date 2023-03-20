@@ -21,3 +21,5 @@ We corrected the following Mishnaic treatises:
 - Kelim 1-2 (ref 6.1)
 
 (c) 2018 Daniel Stoekl Ben Ezra 
+
+Licence: CC-BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/
